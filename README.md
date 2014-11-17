@@ -65,6 +65,14 @@ It should probably read:
 > 2. Add a link so we can move from app/templates/index.hbs to the
 > list of friends (might need to generate the missing template).
 
+Where it reads:
+
+> This means that if we are in Friends Show Route or Friends Edit Route,
+> we can move between them by simply referencing the route without the
+> dynamic segment:
+
+This doesn't seem to work on 1.8.1.
+
 ## PODS
 
 Where it reads:
